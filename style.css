@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   background-image: linear-gradient(90deg,blue,green);
+}
+.main{
+width: 40%;
+text-align: center;
+
+margin-left: 30%;
+margin-top: 10%;
+background-color: white;
+
+}
+.h{
+    font-weight: 900;
+    font-size: 3vh;
+    padding: 1vh;
+    padding: 3%;
+}
+.inp input{
+    width: 80%;
+    margin: 2%;
+    padding: 2%;
+    font-size: 3vh;
+    border-radius: 2px;
+    margin-top: 2%;
+}
+.inp{
+    margin-top: 4%;
+}
+.inp-2{
+    margin-top: 3%;
+
+}
+.inp-2 textarea{
+    width: 80%;
+    font-size: 3vh;
+    padding: 2%;
+    border-radius: 2px;
+   
+}
+.btn{
+    margin-top: 5%;
+   
+    padding: 2%;
+
+}
+.btn button{
+  
+    font-size: 3vh;
+    padding: 2%;
+    border-radius: 3.5px;
+    background-color: blue;
+    color: white;
+    font-family: 600;
+    border: 1px solid blue;
+}
